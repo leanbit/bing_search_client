@@ -1,0 +1,225 @@
+{
+  "_type": "News",
+  "readLink": "https://api.cognitive.microsoft.com/api/v5/news/search?q='issf'",
+  "totalEstimatedMatches": 6,
+  "value": [
+    {
+      "name": "Ambiente: Thai Union si impegna per un tonno 100% sostenibile",
+      "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=w8APK8NdK2wuadbT973W7H8rx2HTiU7W0zVzwn6UAz4&v=1&r=http%3a%2f%2fwww.meteoweb.eu%2f2016%2f12%2fambiente-thai-union-si-impegna-un-tonno-100-sostenibile%2f807648%2f&p=DevEx,5020.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.1239FB8B495EA8C3D372E7BC436F31A1&pid=News",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "description": "L’International Seafood Sustainability Foundation (ISSF) conduce ogni anno dei controlli per garantire che tutte le aziende che fanno parte della fondazione si attengano alle misure stabilite da ISSF per la salvaguardia degli stock di tonno, siano ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/588bd4b9-e440-b7eb-2cab-2a54c0458548",
+          "name": "Thailand"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/61125ab4-60f9-d3cf-43a0-6457001cc17f",
+          "name": "Union"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "MeteoWeb"
+        }
+      ],
+      "datePublished": "2016-12-13T10:19:00",
+      "clusteredArticles": [
+        {
+          "name": "Thai Union si impegna per un tonno 100% sostenibile",
+          "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=lztCDucbJTObbJNLn7xgiKSQA3w6EuOJyu1EUv4m9hY&v=1&r=http%3a%2f%2fwww.alternativasostenibile.it%2farticolo%2fthai-union-si-impegna-un-tonno-100-sostenibile&p=DevEx,5021.1",
+          "description": "L’International Seafood Sustainability Foundation (ISSF) conduce ogni anno dei controlli per garantire che tutte le aziende che fanno parte della fondazione si attengano alle misure stabilite da ISSF per la salvaguardia degli stock di tonno, siano ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/61125ab4-60f9-d3cf-43a0-6457001cc17f",
+              "name": "Union"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/588bd4b9-e440-b7eb-2cab-2a54c0458548",
+              "name": "Thailand"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Alternativa Sostenibile"
+            }
+          ],
+          "datePublished": "2016-12-13T12:02:00"
+        }
+      ]
+    },
+    {
+      "name": "“Non sparate sul double trap”",
+      "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=KZavG-Mo-mDD0bZ_-MhJacPu4HFhZn2hoYVa3dBTaPM&v=1&r=http%3a%2f%2fchepalle.gazzetta.it%2f2016%2f12%2f04%2fnon-sparate-sul-double-trap%2f&p=DevEx,5009.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.27F07EF69A30D0FA354AB2B130BC498D&pid=News",
+          "width": 457,
+          "height": 320
+        }
+      },
+      "description": "Succede quindi che la federazione mondiale del tiro, la Issf, abbia individuato una sua riforma. Nella quale cancella dal programma olimpico tre discipline solo maschili, vale a dire la pistola libera (50 metri), la carabina a terra e, nel tiro a volo ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/7e7f0156-541e-78b8-3a37-7b2a1891407f",
+          "name": "Double trap"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Che palle! - Gazzetta"
+        }
+      ],
+      "datePublished": "2016-12-04T07:51:00"
+    },
+    {
+      "name": "Rivoluzione nel tiro a volo e nel tiro a segno: ai Giochi di Tokyo potrebbero esordire le gare miste",
+      "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=sQz3DbcTvwzrMgQIngq8aD5q-CSQATm831pgVKeRL3M&v=1&r=http%3a%2f%2fwww.lastampa.it%2f2016%2f12%2f02%2fsport%2frivoluzione-nel-tiro-a-volo-e-nel-tiro-a-segno-ai-giochi-di-tokyo-potrebbero-esordire-le-gare-miste-f1evIp6p2WJNeeZLH9zR1N%2fpagina.html&p=DevEx,5011.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.2439B0FC9A322AB7D6EAB3030187DA08&pid=News",
+          "width": 700,
+          "height": 394
+        }
+      },
+      "description": "Svolta nel tiro a volo e nel tiro a segno in vista delle Olimpiadi di Tokyo 2020. Il presidente della Federazione mondiale (Issf), Olegario Vazquez Rana, e una commissione nominata per l’occasione hanno fatto il primo passo per una storica novità nel ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/cb44a92f-6c6f-99c4-2ae3-51601fdc919a",
+          "name": "Tokyo"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Tokyo"
+        },
+        {
+          "name": "La Stampa"
+        },
+        {
+          "name": "Italy"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "La Stampa"
+        }
+      ],
+      "datePublished": "2016-12-02T22:16:00"
+    },
+    {
+      "name": "Sport VariTIRO OLIMPICO",
+      "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=zSTOT6wNsnNadkkqMmVC9Y6kvuhaGszKV7wHd0cmv6Q&v=1&r=http%3a%2f%2fwww.gazzetta.it%2fSport-Vari%2f02-12-2016%2ftiro-rivoluzione-tokyo-gare-miste-addio-double-trap-1701089616532.shtml&p=DevEx,5026.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.42823B4732FAFC96D60DB9A9994135AF&pid=News",
+          "width": 436,
+          "height": 246
+        }
+      },
+      "description": "Le novità erano nell'aria già prima di Rio 2016, ora però il presidente della federazione mondiale (Issf) Olegario Vazquez Rana e il comitato esecutivo, assieme a rappresentanti di tecnici e atleti e a una commissione ad hoc, hanno compiuto il primo ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/cb44a92f-6c6f-99c4-2ae3-51601fdc919a",
+          "name": "Tokyo"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Gazzetta Dello Sport"
+        }
+      ],
+      "datePublished": "2016-12-02T21:50:00",
+      "clusteredArticles": [
+        {
+          "name": "Tiro: a Tokyo gare a coppie miste",
+          "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=BZ9h6lgt1DKow9AgRorHqOwTppOnZKuBkobZRwcYIYw&v=1&r=http%3a%2f%2fwww.ansa.it%2fsito%2fnotizie%2fsport%2faltrisport%2f2016%2f12%2f02%2ftiro-a-tokyo-gare-a-coppie-miste_e280bdb3-dc8f-4fa8-8ce1-6d9cf92d992a.html&p=DevEx,5027.1",
+          "description": "Le novità erano nell'aria già prima di Rio 2016, ora però il presidente della federazione mondiale (Issf) Olegario Vazquez Rana e il comitato esecutivo hanno compiuto il primo passo per renderle operative. Il punto è che si deve arrivare alla parità ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/cb44a92f-6c6f-99c4-2ae3-51601fdc919a",
+              "name": "Tokyo"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "ANSA"
+            }
+          ],
+          "datePublished": "2016-12-02T18:55:00"
+        },
+        {
+          "name": "TIRO A VOLO, DA TOKYO 2020 VIA A GARE COPPIE MISTE",
+          "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=nkAqyb9MJMt_SAHVSa3IqhhkHHdbFQBruT5NSlKWNlU&v=1&r=http%3a%2f%2fsport.repubblica.it%2fnews%2fsport%2ftiro-a-volo-da-tokyo-2020-via-a-gare-coppie-miste%2f4673849&p=DevEx,5028.1",
+          "description": "Le novità erano nell'aria già prima di Rio 2016, ora però il presidente della federazione mondiale (Issf) Olegario Vazquez Rana e il comitato esecutivo, assieme a rappresentanti di tecnici e atleti e a una commissione 'ad hoc', hanno compiuto il primo ...",
+          "about": [
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/cb44a92f-6c6f-99c4-2ae3-51601fdc919a",
+              "name": "Tokyo"
+            },
+            {
+              "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/a14cdf89-4e4a-5f78-3c86-ecd47368a9c1",
+              "name": "la Repubblica"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Sport - Repubblica.it"
+            }
+          ],
+          "datePublished": "2016-12-02T18:05:00"
+        }
+      ]
+    },
+    {
+      "name": "Tiro | adesso è ufficiale! A Tokyo 2020 ci saranno le competizioni miste | cancellate",
+      "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=HP4BLLLPIDcTAUC6gXQZP_CDz4iuwyzQjIytKxLxH7g&v=1&r=http%3a%2f%2fwww.zazoom.it%2f2016-12-03%2ftiro-adesso-e-ufficiale-a-tokyo-2020-ci-saranno-le-competizioni-miste-cancellate-alcune-gare-maschili%2f2206406%2f&p=DevEx,5015.1",
+      "description": "giuseppe.bernardi@oasport.it Clicca qui per mettere “Mi piace” alla nostra pagina Facebook Clicca qui per iscriverti al nostro gruppo Clicca qui per seguirci su Twitter Foto: ISSF Voice 2 Media",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Zazoom Social News"
+        }
+      ],
+      "datePublished": "2016-12-03T10:37:00"
+    },
+    {
+      "name": "Libera | a Bologna dal 1 dicembre il Festival dell’informazione e dell’impegno antimafia",
+      "url": "http://www.bing.com/cr?IG=673C5C60DBE5471A9FFD02F37C87A262&CID=080E2739C03D680D3B5A2ED5C1DA6940&rd=1&h=1TeaHg3VHmbYi-rkeWhRdauE40broI3-kpwa4VKt62E&v=1&r=http%3a%2f%2fwww.zazoom.it%2f2016-11-30%2flibera-a-bologna-dal-1-dicembre-il-festival-dellinformazione-e-dellimpegno-antimafia%2f2194901%2f&p=DevEx,5017.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.F580DBDCD85900F594D98DF37A60E78D&pid=News",
+          "width": 280,
+          "height": 120
+        }
+      },
+      "description": "Finale Coppa del Mondo : a Bologna Giordano è bronzo nella pistola Libera: Esordio con medaglia (di bronzo) per la squadra azzurra alla Finale di Coppa del Mondo ISSF che è cominciata questa mattina a Bologna. A conquistarla è stato Giuseppe Giordano ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f36c4093-c958-bcb0-7345-a64ab939999b",
+          "name": "Bologna"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Zazoom Social News"
+        }
+      ],
+      "datePublished": "2016-11-30T17:03:00"
+    }
+  ]
+}

@@ -22,7 +22,16 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Configure your account key, if you do not have one just visit [Microsoft Cognitive Service](https://www.microsoft.com/cognitive-services/en-us/subscriptions)
+
+```ruby
+   BingSearchClient.configure do |c|
+     c.account_key = "123"
+   end
+
+   news_client = BingSearchClient::News.new(num_results: 10, params: {:mkt => 'it-IT'})
+   news_client.search(q: "test")
+```
 
 ## Development
 
@@ -30,10 +39,19 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
+Run the specs
+
+
+
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/bing_search_client.
 
+## TODO
+
+Implement other services like Web, Image and Video search.
+Just take a look at the BingSearchClient::News class, add one class for each service. 
 
 ## License
 
