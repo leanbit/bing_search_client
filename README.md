@@ -41,12 +41,14 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Run the specs
 
+```
+$ rspec
 
-
+```
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/bing_search_client.
+Bug reports and pull requests are welcome on GitHub at https://github.com/leanbit/bing_search_client.
 
 ## TODO
 
