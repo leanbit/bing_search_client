@@ -19,9 +19,9 @@ module BingSearchClient
     private
 
       def parse_response(response)
-        body = JSON.parse(response.body)
+        body = JSON.parse(response.body, symbolize_names: true)
         if (200..299).include?(response.code.to_i)
-          return { results: BingSearchClient::Result.build_from_array_response(raw_response: body['value']), extra: body.reject { |k| k != 'value' } }
+          return { results: BingSearchClient::Result.build_from_array_response(raw_response: body[:value]), extra: body.reject { |k| k != :value } }
         else
           raise BingSearchClient::BadResponse.new("#{response.status}: #{body}")
         end

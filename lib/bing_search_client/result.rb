@@ -17,7 +17,7 @@ module BingSearchClient
 
     # Instance method to get the real url insted of the url bing
     def expand_url!
-      bing_url = URI(body['url'])
+      bing_url = URI(body[:url])
       parsed_query = CGI::parse(bing_url.query)
       @expanded_url = parsed_query['r'].first
     end
