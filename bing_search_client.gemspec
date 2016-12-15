@@ -6,11 +6,10 @@ require 'bing_search_client/version'
 Gem::Specification.new do |spec|
   spec.name          = "bing_search_client"
   spec.version       = BingSearchClient::VERSION
-  spec.authors       = ["gamacri"]
-  spec.email         = ["giacomo@leanbit.it"]
+  spec.authors       = ["Giacomo Macrì"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Bing Search Ruby client for new v5 api}
+  spec.description   = %q{A simple client to interact with Bing search API.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
