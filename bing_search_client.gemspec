@@ -7,17 +7,16 @@ Gem::Specification.new do |spec|
   spec.name          = "bing_search_client"
   spec.version       = BingSearchClient::VERSION
   spec.authors       = ["Giacomo Macrì"]
+  spec.email            = 'giacomo at leanbit dot it'
 
   spec.summary       = %q{Bing Search Ruby client for new v5 api}
   spec.description   = %q{A simple client to interact with Bing search API.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/leanbit/bing_search_client"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
   end
-  spec.bindir        = "exe"
-  spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.13"
